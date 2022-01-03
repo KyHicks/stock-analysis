@@ -5,7 +5,7 @@ The  purpose of this project is to look at all the dataset and determine how ref
 ## Reults
 Overall the stocks performed better in 2017 with  only one the TERP stock with a negative return.  In 2018 only 2 stocks that year had postive returns ENPH with a return of 81.9% and RUN with an 84% return. Also the code was able to run faster after refactoring it.  The original code ran .54 seconds with the refactored code running .13 seconds.
 ![VBA-Challenge_2017)](https://github.com/KyHicks/stock-analysis/blob/main/Resources/VBA-Challenge_2017.PNG)
-![This is an image]
+![This is an image](https://github.com/KyHicks/stock-analysis/blob/main/Resources/VBA_Challenge_2017_refactored.PNG)
 ![This is an immage](https://Resources/VBA_Challenge_2018.PNG)
 ![This is an image](https//Resources/VBA_Challenge_2018-refactored.PNG)
 ## Summary
