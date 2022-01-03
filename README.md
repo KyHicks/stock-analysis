@@ -11,4 +11,4 @@ Overall the stocks performed better in 2017 with  only one the TERP stock with a
 ![VBA_Challenge_2018](https://github.com/KyHicks/stock-analysis/blob/main/Resources/VBA_Challenge_2018.PNG)
 ![VBA_Challenge_2018-refactored](https://github.com/KyHicks/stock-analysis/blob/main/Resources/VBA_Challenge_2018-refactored.PNG)
 ## Summary
-There are many benefits to refactoring code.  Refactoring is more organized and cleaner which makes it easier for others to follow.  A more simple code aslso can help with debugging and easier to make changes. It also ran faster than the original code.  
+There are many benefits to refactoring code.  Refactoring is more organized and cleaner which makes it easier for others to follow.  A more simple code also can help with debugging and easier to make changes. It also ran faster than the original code.  
